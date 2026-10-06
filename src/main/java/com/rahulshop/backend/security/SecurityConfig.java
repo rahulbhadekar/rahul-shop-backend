@@ -103,7 +103,8 @@ public class SecurityConfig {
         configuration.setAllowedOrigins(
                 List.of(
                         "http://127.0.0.1:5505",
-                        "http://localhost:5505"
+                        "http://localhost:5505",
+                        "https://rahul-shop-pokt.onrender.com"
                 )
         );
 
