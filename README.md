@@ -1,4 +1,4 @@
-# rahul-shop-backend
+## rahul-shop-backend
 
 This is a **Java (Spring Boot)** based backend application designed for an e-commerce or shop management system. The project features production-ready configurations, including Docker support and live frontend CORS integration, making it optimized for cloud deployment.
 
