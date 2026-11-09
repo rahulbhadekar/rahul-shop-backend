@@ -1,8 +1,8 @@
-## rahul-shop-backend
+### rahul-shop-backend
 
 This is a **Java (Spring Boot)** based backend application designed for an e-commerce or shop management system. The project features production-ready configurations, including Docker support and live frontend CORS integration, making it optimized for cloud deployment.
 
-## 🚀 Features
+### 🚀 Features
 - **Spring Boot Architecture:** Clean, robust, and scalable backend setup using Java and Maven.
 - **CORS Configured:** Pre-configured Cross-Origin Resource Sharing (CORS) to securely connect with live frontend applications.
 - **Docker Enabled:** Contains a standard `Dockerfile` for containerized environments.
@@ -61,3 +61,11 @@ docker run -p 8080:8080 rahul-shop-backend
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
+
+
+## Future Improvements
+
+- Add more test cases.
+- Improve error handling.
+- Optimize application performance.
+- Add API documentation.
